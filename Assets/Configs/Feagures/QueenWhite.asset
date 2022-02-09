@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9f392e5c6e64df6a97b24c2836275e3, type: 3}
+  m_Name: QueenWhite
+  m_EditorClassIdentifier: 
+  gameObj: {fileID: 1945632463053948, guid: be3573ba2ba53ea4f8979e64874c493d, type: 3}
+  positions:
+  - A5
+  move: {fileID: 11400000, guid: ae0f5b1e1e30d364d8ca1eaee1739383, type: 2}
+  color: white
